@@ -20,7 +20,7 @@ npm run dev
 OR can run `app.js` directly from `nodemon` if using live reload.
 
 
-# To Run on prod
+### To Run on prod
 ```bash
 npm start
 ```
