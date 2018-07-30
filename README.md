@@ -1,4 +1,4 @@
-# SCIO Independent Doctor API
+# Boilerplate pushed from Independent Doctor API project). Removed all business code, only boilerplate.
 
 ### To Setup
 
